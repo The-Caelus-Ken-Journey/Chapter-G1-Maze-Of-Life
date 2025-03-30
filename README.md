@@ -97,9 +97,9 @@ Players can use three support skill sets, appearing sequentially in an order cho
    - A **Text Box Debugger** is available to track attack type changes.
 
 ### 3. Testing Checklist
-- [ ] **Move & Jump**: Test basic movement and jumping behavior.
-- [ ] **Wall Jump**: Verify charge mechanic works correctly.
-- [ ] **Dash**: Ensure the air dash consumes and refills the meter.
+- [x] **Move & Jump**: Test basic movement and jumping behavior.
+- [x] **Wall Jump**: Verify charge mechanic works correctly.
+- [x] **Dash**: Ensure the air dash consumes and refills the meter.
 - [ ] **Combat System**: Test primary and support skill sets.
 - [ ] **Exploration Mode**: Verify skill interactions with puzzles and map elements.
 - [ ] **Debug Messages**: Ensure attack type is displayed in the text box.
